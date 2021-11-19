@@ -33,6 +33,7 @@ Interfaz programada en Angular con mucho amor. 💘
 ### Componentes
 
 `ng generate component <nombre-del-componente>` 🠒 genera los archivos correspondientes a un nuevo componente de angular.
+
 También se puede utilizar así `ng generate directive|pipe|service|class|guard|interface|enum|module`, pero no sé qué hacen ninguna de esas opciones XD.
 
 ### Build
