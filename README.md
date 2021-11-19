@@ -7,10 +7,15 @@ Interfaz programada en Angular con mucho amor. 💘
 
 ## ➥ Integrantes
 ➭ Juan Castillo
+
 ➭ Luis Gómez
+
 ➭ Juan (Pablo) `Apellido`
+
 ➭ Brian Dávalos
+
 ➭ Joubert Álvarez
+
 ➭ ":(" `(El otro chico que se me olvidó su nombre y no sale en wpp)`.
 
 ## ➥ Tecnologías
