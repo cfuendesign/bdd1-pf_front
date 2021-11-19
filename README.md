@@ -1,27 +1,35 @@
-# Bddfront
+# Proyecto Final Bases de Datos 1 (bdd1-pf_front)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+Frontend del proyecto final de la materia Bases de Datos 1, período académico 2021-2.
+Archivos boilerplate de Angular generados mediante [Angular CLI](https://github.com/angular/angular-cli) 12.2.1.
+Interfaz diseñada a papel y lápiz.
+Interfaz programada en Angular con mucho amor. 💘
 
-## Development server
+## ➥ Integrantes
+➭ Juan Castillo
+➭ Luis Gómez
+➭ Juan (Pablo) `Apellido`
+➭ Brian Dávalos
+➭ Joubert Álvarez
+➭ ":(" `(El otro chico que se me olvidó su nombre y no sale en wpp)`.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## ➥ Tecnologías
+| Nombre | Tipo | Versión |
+|---|---|---|
+| Angular | Framework de Frontend | ??? |
+| Tailwind | Componentes/Boilerplate CSS | N/A |
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ➥ Comandos
+### Devserver
 
-## Build
+`ng serve` 🠒 lanza un live server en `http://localhost:4200/` con hot reload. 🔥
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Componentes
 
-## Running unit tests
+`ng generate component <nombre-del-componente>` 🠒 genera los archivos correspondientes a un nuevo componente de angular.
+También se puede utilizar así `ng generate directive|pipe|service|class|guard|interface|enum|module`, pero no sé qué hacen ninguna de esas opciones XD.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Build
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+`ng build` 🠒 Construye archivos para la distribuición del proyecto, los cuales se guardan en la carpeta `dist/`.
