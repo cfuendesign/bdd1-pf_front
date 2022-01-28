@@ -10,7 +10,7 @@ Interfaz programada en Angular con mucho amor. 💘
 
 ➭ Luis Gómez
 
-➭ Juan (Pablo) `Apellido`
+➭ Juan Pablo
 
 ➭ Brian Dávalos
 
@@ -21,8 +21,7 @@ Interfaz programada en Angular con mucho amor. 💘
 ## ➥ Tecnologías
 | Nombre | Tipo | Versión |
 |---|---|---|
-| Angular | Framework de Frontend | ??? |
-| Tailwind | Componentes/Boilerplate CSS | N/A |
+| Angular | Framework de Frontend | 13 |
 
 
 ## ➥ Comandos
